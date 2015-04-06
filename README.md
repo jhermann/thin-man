@@ -75,6 +75,8 @@ invoke build --docs test check
 
 See [CONTRIBUTING](https://github.com/jhermann/thin-man/blob/master/CONTRIBUTING.md) for more.
 
+[![Throughput Graph](https://graphs.waffle.io/jhermann/thin-man/throughput.svg)](https://waffle.io/jhermann/thin-man/metrics)
+
 
 ## References
 
