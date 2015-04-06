@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # pylint: disable=bad-whitespace, attribute-defined-outside-init, invalid-name
 """
-    Thin Man – Thin Man backs up all metadata in your source tree of git repos.
+    Thin Man backs up all metadata in your source tree of git repos.
 
     This setuptools script follows the DRY principle and tries to
     minimize repetition of project metadata by loading it from other

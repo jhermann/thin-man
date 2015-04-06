@@ -24,7 +24,7 @@ This can be also part of a backup strategy by only including that small
 amount of metadata in a backup set, instead of duplicating all the data
 that is available in remote locations anyway.
 
-This of course assumes that your repositories are usually clean and don't
+That of course assumes that your repositories are usually clean and don't
 contain days of uncommitted work, and can be easily restored into
 working shape by bootstrap scripts and the like.
 But that's a given, right?
