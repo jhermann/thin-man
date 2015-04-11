@@ -5,6 +5,7 @@
 ![logo](https://raw.githubusercontent.com/jhermann/thin-man/master/docs/_static/img/logo.png)
 
  [![Travis CI](https://api.travis-ci.org/jhermann/thin-man.svg)](https://travis-ci.org/jhermann/thin-man)
+ [![Coveralls](https://img.shields.io/coveralls/jhermann/thin-man.svg)](https://coveralls.io/r/jhermann/thin-man)
  [![GitHub Issues](https://img.shields.io/github/issues/jhermann/thin-man.svg)](https://github.com/jhermann/thin-man/issues)
  [![License](https://img.shields.io/pypi/l/thin-man.svg)](https://github.com/jhermann/thin-man/blob/master/LICENSE)
  [![Development Status](https://pypip.in/status/thin-man/badge.svg)](https://pypi.python.org/pypi/thin-man/)
