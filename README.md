@@ -82,6 +82,10 @@ See [CONTRIBUTING](https://github.com/jhermann/thin-man/blob/master/CONTRIBUTING
 
 ## References
 
+**Similar Projects**
+
+* [tony/vcspull](https://github.com/tony/vcspull)
+
 **Tools**
 
 * [Cookiecutter](http://cookiecutter.readthedocs.org/en/latest/)
