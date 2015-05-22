@@ -85,6 +85,7 @@ See [CONTRIBUTING](https://github.com/jhermann/thin-man/blob/master/CONTRIBUTING
 **Similar Projects**
 
 * [tony/vcspull](https://github.com/tony/vcspull)
+* [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater)
 
 **Tools**
 
