@@ -8,9 +8,9 @@
  [![Coveralls](https://img.shields.io/coveralls/jhermann/thin-man.svg)](https://coveralls.io/r/jhermann/thin-man)
  [![GitHub Issues](https://img.shields.io/github/issues/jhermann/thin-man.svg)](https://github.com/jhermann/thin-man/issues)
  [![License](https://img.shields.io/pypi/l/thin-man.svg)](https://github.com/jhermann/thin-man/blob/master/LICENSE)
- [![Development Status](https://pypip.in/status/thin-man/badge.svg)](https://pypi.python.org/pypi/thin-man/)
+ [![Development Status](https://img.shields.io/pypi/status/thin-man.svg)](https://pypi.python.org/pypi/thin-man/)
  [![Latest Version](https://img.shields.io/pypi/v/thin-man.svg)](https://pypi.python.org/pypi/thin-man/)
- [![Download format](https://pypip.in/format/thin-man/badge.svg)](https://pypi.python.org/pypi/thin-man/)
+ [![Download format](https://img.shields.io/pypi/format/thin-man.svg)](https://pypi.python.org/pypi/thin-man/)
  [![Downloads](https://img.shields.io/pypi/dw/thin-man.svg)](https://pypi.python.org/pypi/thin-man/)
 
 
